@@ -1,0 +1,21 @@
+Variables: son una forma de almacenar el valor de algo para más tarde utilizarlo. 
+Primero se declara una variable( var, let, const) y luego se le asigna el valor
+
+
+Strings: son bloques de texto, siempre estan definidas por comillas. 
+
+
+Funciones (argumentos, return)
+Las funciones agrupan código y lo guarda para luego ser ejecutado.
+
+Una función siempre necesita parentesis para ejecutarse, podemos agregarle argumento a la función colocando comillas.
+
+Cuando una función golpea una declaracion de return, la función inmediatamente detiene lo que esta haciendo y "devuelve" lo especificado. No se puede acceder a nada más que a lo que se devuelce fuera de la función. 
+
+
+Declaraciones if 
+son statements que sirven para controlar el flujo de ejecución de código, según si se cumple o no una condición.
+
+
+Valores booleanos (true, false)
+Un valor boleano representa un valor de verdad. En JavaScript los valores posibles de un dato booleano es True o False.
