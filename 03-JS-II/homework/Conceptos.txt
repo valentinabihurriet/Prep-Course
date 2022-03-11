@@ -1,0 +1,16 @@
+Conceptos
+
+for 
+crea un loop que contiene tres expresiones, encerradas en parentesis, separadas por punto y coma y una instruccion,
+que se ejecutará en el loop. el bucle for evalua la expresion condicional, si es true se seguira ejecutando, si es 
+false deja de funcionar.
+
+&& (and): 
+representa "Y", es un operador logico que evalua dos opciones, si una o ambas opciones es falsa, devuelve False. 
+
+|| (Or)
+representa "O" es un operador logico que evalua dos opciones, si una de ellas es verdadera, devuelve true. Si ambas son falsas
+devolverá false.
+
+! (not)
+representa "No", es un operador que devolverá el valor booleano contrario del que se le pasa. 
